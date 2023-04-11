@@ -69,7 +69,7 @@ canvas {
   
   
   .scraps{
-    background-image: url(https://github.com/wponc/Scraps/blob/master/dist/assets/images/37.jpg?raw=true);
+    background-image: url(https://github.com/wponc/Scraps/blob/master/assets/images/37.jpg?raw=true);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
