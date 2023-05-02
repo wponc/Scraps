@@ -63,7 +63,7 @@ canvas {
     gap: 2%;
   }
   .section.show{
-    animation: fadeIn 1.5s ease-in-out;
+    animation: fadeIn 1.2s ease-in-out;
     opacity: 1;
   }
 
